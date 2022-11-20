@@ -17,16 +17,16 @@
 # 🧠-Compétences Informatique
 - Langage générale: 
 <p align="center">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcdnlogo.com%2Flogo%2Fc_760.html&psig=AOvVaw0nh5RGQiouaWz4B48Agisw&ust=1669069070544000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKid8fnkvfsCFQAAAAAdAAAAABAN">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.savoirfairelinux.com%2Fen-ca%2F2017%2Fpress-review-inno-8%2Fpython-logo-png-image-1%2F&psig=AOvVaw2s-rBgJWFtXuJXjaKmLD24&ust=1669069194383000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLCQ-LTlvfsCFQAAAAAdAAAAABAS">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-marques.com%2Fjava-logo%2F&psig=AOvVaw0wD5fDBMFFRgFOQDO0uW0S&ust=1669069347748000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLC0i_7lvfsCFQAAAAAdAAAAABAI">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2F3ds%2Fhtml-logo&psig=AOvVaw0UcPn6xr8AbABkO3JsrG0g&ust=1669069483777000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNjY-r7mvfsCFQAAAAAdAAAAABAN">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.m.wikipedia.org%2Fwiki%2FFichier%3ACSS3_logo_and_wordmark.svg&psig=AOvVaw0BHitoiD4K2nsEqi6oIrn1&ust=1669069508121000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOjTyMrmvfsCFQAAAAAdAAAAABAE">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepnglogos.com%2Fpics%2Fphp-logo&psig=AOvVaw3XgaGnKszf8wbHiFD231Sk&ust=1669069537624000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPDtzNjmvfsCFQAAAAAdAAAAABAE">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepnglogos.com%2Fpics%2Fjavascript&psig=AOvVaw0ott-kIjD1xNNjoK3AQCtl&ust=1669069565852000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJDbiebmvfsCFQAAAAAdAAAAABAo">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fsearch%3Fq%3Dmysql%2BLogo&psig=AOvVaw0IjMDpkyfx37WmJO2DcVg8&ust=1669069607129000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKD23vnmvfsCFQAAAAAdAAAAABAE">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AGnu-bash-logo.svg&psig=AOvVaw2MMY_9LDFtoxz8OZS0V41k&ust=1669069636532000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIChro_nvfsCFQAAAAAdAAAAABAE">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Ffree-vector-logos%2Fgit&psig=AOvVaw2_mv-52nawsS-Sf89jjFNh&ust=1669069674892000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLCmhprnvfsCFQAAAAAdAAAAABAE">
+    <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png">
+    <img src="https://logos-marques.com/wp-content/uploads/2021/03/Java-Logo.png">
+    <img src="https://blog.savoirfairelinux.com/en-ca/wp-content/uploads/sites/2/2017/11/Python-Logo-PNG-Image-1.png">
+    <img src="https://cdn3d.iconscout.com/3d/free/thumb/html-5728485-4781249.png">
+    <img src="https://img.freepik.com/icones-gratuites/css_318-674222.jpg?w=2000">
+    <img src="https://www.freepnglogos.com/uploads/php-logo-png/php-logo-php-elephant-logo-vectors-download-5.png">
+    <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-hq-png-1.png">
+    <img src="https://e7.pngegg.com/pngimages/824/227/png-clipart-mysql-logo-database-web-development-blue-text-thumbnail.png">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/1200px-Gnu-bash-logo.svg.png">
+    <img src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png">
 </p>
 
     
