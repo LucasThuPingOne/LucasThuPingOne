@@ -7,8 +7,6 @@ En ce moment:
 - 🌱 J'apprends des tas de choses géniales qui me seront utiles à l'avenir
 - 👯 Je participe activement à la vie associative de mon école 
 - ⚡ Fun fact : J'ai vécu 14 ans en Afrique ✈️
-![GitHub-Mark-Light](https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only)![GitHub-Mark-Dark](https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only)
-
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/lucas-thu-ping-one-a23672238/">
@@ -60,10 +58,11 @@ En ce moment:
         <tr>
             <td align="center"><img alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" /> </td>
             <td align="center"><picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/w.png">
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/b.png">
-            <img alt="Shows a black logo in light color mode and a white one in dark color mode." width="26px" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" style="padding-right:10px;">
-            </picture></td>
+                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/w.png">
+                <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/b.png">
+                <img alt="Shows a black logo in light color mode and a white one in dark color mode." width="26px" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" style="padding-right:10px;">
+                </picture>
+            </td>
 
             
         </tr>
