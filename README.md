@@ -24,8 +24,8 @@
         </thead>
 	<tbody>
         <tr>
-            <td><img align="center" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" /> </td>
-            <td><img align="center" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" /></td>
+            <td align="center"><img align="center" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" /> </td>
+            <td align="center"><img align="center" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" /></td>
         </tr>
     </tbody>
 </table>
