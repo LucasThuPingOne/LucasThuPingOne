@@ -57,7 +57,7 @@ En ce moment:
 	<tbody>
         <tr>
             <td align="center"><img alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" /> </td>
-            <td align="center"><img alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="padding-right:10px;" />(#gh-light-mode-only)</td>
+            <td align="center"><img alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg#gh-light-mode-only" style="padding-right:10px;" /></td>
 
             
         </tr>
