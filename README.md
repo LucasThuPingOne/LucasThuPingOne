@@ -17,16 +17,17 @@
 # 🧠-Compétences Informatique
 - Langage générale: 
 <p align="center">
-    <img  height="32" width="32" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png">
-    <img  height="32" width="32" src="https://logos-marques.com/wp-content/uploads/2021/03/Java-Logo.png">
-    <img  height="32" width="32" src="https://blog.savoirfairelinux.com/en-ca/wp-content/uploads/sites/2/2017/11/Python-Logo-PNG-Image-1.png">
-    <img  height="32" width="32" src="https://cdn3d.iconscout.com/3d/free/thumb/html-5728485-4781249.png">
-    <img  height="32" width="32" src="https://img.freepik.com/icones-gratuites/css_318-674222.jpg?w=2000">
-    <img  height="32" width="32" src="https://www.freepnglogos.com/uploads/php-logo-png/php-logo-php-elephant-logo-vectors-download-5.png">
-    <img  height="32" width="32" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-hq-png-1.png">
-    <img  height="32" width="32" src="https://e7.pngegg.com/pngimages/824/227/png-clipart-mysql-logo-database-web-development-blue-text-thumbnail.png">
-    <img  height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/1200px-Gnu-bash-logo.svg.png">
-    <img  height="32" width="32" src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png">
+    <img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+    <img alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+    <img alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+    <img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+    <img alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
+    <img alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
+    <img alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
+    <img alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
+    <img alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+    <img alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+
 </p>
 
     
