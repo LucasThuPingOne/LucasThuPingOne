@@ -58,6 +58,7 @@ En ce moment:
         <tr>
             <td align="center"><img alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" /> </td>
             <td align="center"><img alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg#gh-light-mode-only" style="padding-right:10px;" /></td>
+            <td align="center"><img alt="Github" width="26px" src="https://e7.pngegg.com/pngimages/551/770/png-clipart-github-pages-logo-repository-fork-github-mammal-cat-like-mammal-thumbnail.png#gh-light-mode-only" style="padding-right:10px;" /></td>
 
             
         </tr>
