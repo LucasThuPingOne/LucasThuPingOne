@@ -37,10 +37,10 @@
         </thead>
 	<tbody>
         <tr>
-            <td><img align="center" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /></td>
-            <td><img align="center" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /></td>
-            <td><img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /></td>
-            <td><img align="center" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" /></td>
+            <td align="center"><img align="center" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /></td>
+            <td align="center"><img align="center" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /></td>
+            <td align="center"><img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /></td>
+            <td align="center"><img align="center" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" /></td>
         </tr>
     </tbody>
 </table>
@@ -52,8 +52,8 @@
         </thead>
 	<tbody>
         <tr>
-            <td><img align="center" alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" /> </td>
-            <td><img align="center" alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="padding-right:10px;" /></td>
+            <td align="center"><img align="center" alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" /> </td>
+            <td align="center"><img align="center" alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="padding-right:10px;" /></td>
         </tr>
     </tbody>
 </table>
@@ -66,8 +66,8 @@
         </thead>
 	<tbody>
         <tr>
-            <td><img align="center" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" /> </td>
-            <td><img align="center" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /></td>
+            <td align="center"><img align="center" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" /> </td>
+            <td align="center"><img align="center" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /></td>
         </tr>
     </tbody>
 </table>
