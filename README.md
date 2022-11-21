@@ -19,7 +19,7 @@
 <table align="center">
 	<thead>
 		<tr>
-			<th><b>Langage généraliste</b></th>
+			<th colspan="2"><b>Langage généraliste</b></th>
         </tr>
         </thead>
 	<tbody>
@@ -32,7 +32,7 @@
 <table align="center">
 	<thead>
 		<tr>
-			<th><b>Développement web</b></th>
+			<th colspan="4"><b>Développement web</b></th>
         </tr>
         </thead>
 	<tbody>
