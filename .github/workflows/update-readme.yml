@@ -1,8 +1,8 @@
-ame: Update README
+name: Update README
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '*/1 * * * *'
   workflow_dispatch:
 
 jobs:
