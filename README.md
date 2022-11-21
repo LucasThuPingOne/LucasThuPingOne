@@ -86,7 +86,7 @@ En ce moment:
     </tbody>
 </table>
 
-### My daily routine :
+### Ma daily routine :
 
 ```mermaid
   graph TD;
@@ -95,6 +95,8 @@ En ce moment:
       Maths-->Sleep
       Sleep-->Code;
 ```
+### 🔥 Activité récente
+<!--START_SECTION:activity-->
 
 ### 📊 GitHub Stats
 
