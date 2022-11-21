@@ -97,10 +97,12 @@ En ce moment:
 ```
 ## 🔥 Activité récente
 <!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:last_update_end-->
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=LucasThuPingOne&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 ## 📊 GitHub Stats
 
