@@ -1,6 +1,6 @@
 # 👋-Hello World!
 
-Je suis Lucas un jeune étudiant français en mathématiques appliqués à [CY Tech](https://cytech.cyu.fr)(Ex-EISTI) en cycle ingénieur 👨‍🎓. Je suis passioné des sciences et des nouvelles technologies.
+Je suis Lucas, un jeune étudiant français en mathématiques appliqués à [CY Tech](https://cytech.cyu.fr)(Ex-EISTI) en cycle ingénieur 👨‍🎓. Je suis passioné des sciences et des nouvelles technologies.
 
 En ce moment:
 - 🔭 Je recherche un stage dans le domaine de la programmation de début juin à début aout d'une durée de 2 à 3 mois
@@ -57,7 +57,9 @@ En ce moment:
 	<tbody>
         <tr>
             <td align="center"><img alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" /> </td>
-            <td align="center"><img alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="padding-right:10px;" /></td>
+            <td align="center"><img alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="padding-right:10px;" />(#gh-light-mode-only)</td>
+
+            
         </tr>
     </tbody>
 </table>
