@@ -58,8 +58,8 @@ En ce moment:
         <tr>
             <td align="center">
             <picture>
-                <source media ="(prefers-color-scheme: dark" srcset="https://bashlogo.com/img/symbol/png/full_colored_light.png">
-                <source media ="(prefers-color-scheme: light" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+                <source media ="(prefers-color-scheme: dark)" srcset="https://bashlogo.com/img/symbol/png/full_colored_light.png">
+                <source media ="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
                 <img alt="bash light/dark" width="26px" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" style="padding-right:10px;">
             </picture></td>
             <td align="center"><picture>
@@ -86,7 +86,9 @@ En ce moment:
     </tbody>
 </table>
     
-    
+### ⭐ GitHub Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasThuPingOne&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
     
     
 
