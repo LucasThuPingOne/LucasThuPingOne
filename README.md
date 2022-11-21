@@ -44,15 +44,42 @@
         </tr>
     </tbody>
 </table>
-    <img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<table align="center">
+	<thead>
+		<tr>
+			<th colspan="2"><b>Environnement Unix</b></th>
+        </tr>
+        </thead>
+	<tbody>
+        <tr>
+            <td><img alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" /> </td>
+            <td><img alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="padding-right:10px;" /></td>
+        </tr>
+    </tbody>
+</table>
+<table align="center">
+	<thead>
+		<tr>
+			<th colspan="1"><b>Base de données</b></th>
+            <th colspan="1"><b>Outils</b></th>
+        </tr>
+        </thead>
+	<tbody>
+        <tr>
+            <td><img alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" /> </td>
+            <td><img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /></td>
+        </tr>
+    </tbody>
+</table>
+    
     
     
     
 
-    <img alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
     
-    <img alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-    <img alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="padding-right:10px;" />
+    
+    
+    
 
 
 
