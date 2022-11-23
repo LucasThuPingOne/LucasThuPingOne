@@ -1,13 +1,13 @@
-# 👋 - Hello World!
-<p align="center">French version <a href="https://www.linkedin.com/in/lucas-thu-ping-one-a23672238/">here</a> </p>
-I am Lucas, a young French student in applied mathematics at [CY Tech](https://cytech.cyu.fr)(Ex-EISTI) in the engineering program 👨‍🎓. I am passionate about science and new technologies.
+# 👋-Hello World!
+<p align="center">English version <a href="https://github.com/LucasThuPingOne">here</a> </p>
 
+Je suis Lucas, un jeune étudiant français en mathématiques appliqués à [CY Tech](https://cytech.cyu.fr)(Ex-EISTI) en cycle ingénieur 👨‍🎓. Je suis passioné des sciences et des nouvelles technologies.
 
-At the moment:
-- 🔭 I am looking for an internship in programming sector for a duration of 2 to 3 months from June 12 2022 to September 1 2020.
-- 🌱 I am learning a lot of great things that will be useful in the future.
-- 👯 I actively participate in my school's associative life.
-- ⚡ Fun fact : I lived in Africa for 14 years ✈️
+En ce moment:
+- 🔭 Je recherche un stage dans le domaine de la programmation de début juin à début aout d'une durée de 2 à 3 mois
+- 🌱 J'apprends des tas de choses géniales qui me seront utiles à l'avenir
+- 👯 Je participe activement à la vie associative de mon école 
+- ⚡ Fun fact : J'ai vécu 14 ans en Afrique ✈️
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/lucas-thu-ping-one-a23672238/">
@@ -19,12 +19,12 @@ At the moment:
 	</a>
 </p>
 
-# 🧠 - Computer skills
+# 🧠-Compétences Informatique
 
 <table align="center">
 	<thead>
 		<tr>
-			<th colspan="2"><b>Generalist languages</b></th>
+			<th colspan="2"><b>Langage généraliste</b></th>
         </tr>
         </thead>
 	<tbody>
@@ -37,7 +37,7 @@ At the moment:
 <table align="center">
 	<thead>
 		<tr>
-			<th colspan="4"><b>Web development</b></th>
+			<th colspan="4"><b>Développement web</b></th>
         </tr>
         </thead>
 	<tbody>
@@ -52,7 +52,7 @@ At the moment:
 <table align="center">
 	<thead>
 		<tr>
-			<th colspan="2"><b>Unix environment</b></th>
+			<th colspan="2"><b>Environnement Unix</b></th>
         </tr>
         </thead>
 	<tbody>
@@ -75,8 +75,8 @@ At the moment:
 <table align="center">
 	<thead>
 		<tr>
-			<th colspan="1"><b>Database</b></th>
-            <th colspan="1"><b>Tools</b></th>
+			<th colspan="1"><b>Base de données</b></th>
+            <th colspan="1"><b>Outils</b></th>
         </tr>
         </thead>
 	<tbody>
@@ -87,7 +87,7 @@ At the moment:
     </tbody>
 </table>
 
-## My daily routine :
+## Ma daily routine :
 
 ```mermaid
   graph TD;
