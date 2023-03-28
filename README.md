@@ -1,5 +1,5 @@
 # 👋 - Hello World!
-<p align="center">French version <a href="https://www.linkedin.com/in/lucas-thu-ping-one-a23672238/">here</a> </p>
+<p align="center">French version <a href="https://github.com/LucasThuPingOne/LucasThuPingOne/blob/master/README_FR.md">here</a> </p>
 
 I am Lucas, a young French student in applied mathematics at [CY Tech](https://cytech.cyu.fr)(Ex-EISTI) in the engineering program 👨‍🎓. I am passionate about science and new technologies.
 
