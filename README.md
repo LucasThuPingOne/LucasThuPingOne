@@ -5,7 +5,6 @@ I am Lucas, a young French student in applied mathematics at [CY Tech](https://c
 
 
 At the moment:
-//- 🔭 I am looking for an internship in programming sector for a duration of 2 to 3 months from June 12 2022 to September 1 2020.
 - 🌱 I am learning a lot of great things that will be useful in the future.
 - 👯 I actively participate in my school's associative life.
 - ⚡ Fun fact : I lived in Africa for 14 years ✈️
