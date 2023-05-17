@@ -4,7 +4,6 @@
 Je suis Lucas, un jeune étudiant français en mathématiques appliqués à [CY Tech](https://cytech.cyu.fr)(Ex-EISTI) en cycle ingénieur 👨‍🎓. Je suis passioné des sciences et des nouvelles technologies.
 
 En ce moment:
-- 🔭 Je recherche un stage dans le domaine de la programmation de début juin à début aout d'une durée de 2 à 3 mois
 - 🌱 J'apprends des tas de choses géniales qui me seront utiles à l'avenir
 - 👯 Je participe activement à la vie associative de mon école 
 - ⚡ Fun fact : J'ai vécu 14 ans en Afrique ✈️
